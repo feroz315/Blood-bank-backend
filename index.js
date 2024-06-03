@@ -26,7 +26,7 @@ const PORT = 5000;
 
 
 app.get("/", (req,res) => {
-   res.send("server is up")
+   res.send("server is running  ")
 });
 
 
