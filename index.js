@@ -26,7 +26,7 @@ app.use("/api", routes);
 
 
 app.get("/", (req,res) => {
-   res.send("server is up")
+   res.send("Server is working")
 });
 
 
